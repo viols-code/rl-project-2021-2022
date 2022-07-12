@@ -2,7 +2,7 @@
 
 VHDL hardware description to program an FPGA for a convolutional code 1/2
 
-Grade: 30L/30
+Grade: 30L/30  
 Prof: Gianluca Palermo
 
 
